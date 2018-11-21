@@ -1,0 +1,71 @@
+Scenario #1:
+
+Bot : Hello, nice to meet you. 
+User : hi 
+Bot : Welcome! 
+User : welcome 
+Bot : What's your name? 
+User : ahmed 
+Bot : Nice to meet you. So what subjects are you taking? 
+User : assembly 
+Bot : Haha, fair enough. Which universities have you applied to? 
+User : ASU 
+Bot : Okay, so where are you from? 
+User : Egypt 
+Bot : Great! 
+User : thanks 
+Bot : Any time. 
+User : ok 
+Bot : So, what are your thoughts to make me better? 
+User : you good you donot need anything 
+Bot : Ok, thanks. Have I been helpful? 
+User : yeh 
+Bot : Hmm. Do you think that I am a human? 
+User : of course 
+Bot : Okay. Did you find any of the talks interesting? 
+User : very interesting 
+Bot : Thanks, that's helpful. 
+User : ok 
+Bot : Have you talked to me before? 
+User : no first time 
+Bot : :)
+User : you are fantastic 
+
+
+=======================
+Scenario #2:
+
+User : what is your name 
+Bot : my name is frank ! 
+User : good name 
+Bot : Can we be friends? 
+User : yes 
+Bot : :)
+User : i love you 
+Bot : why do you love me ? 
+User : cause you are amazing 
+Bot : Can we be friends? 
+User : i told you before 
+Bot : Excuse me? 
+User : thanks for help u awesome 
+Bot : Any time. 
+User : good bye my friend 
+Bot : Have a nice day!
+
+
+=======================
+ --- Conversation report ---
+user name: ahmed
+From: [egypt] 
+Studying: [assembly] 
+[So, what are your thoughts to make me better?] : you good you donot need anything 
+[Ok, thanks. Have I been helpful?] : yeh 
+[Hmm. Do you think that I am a human?] : of course 
+[Okay. Did you find any of the talks interesting?] : very interesting 
+
+[What's your name?] : ahmed 
+[Nice to meet you. So what subjects are you taking?] : assembly 
+[Haha, fair enough. Which universities have you applied to?] : asu 
+[Okay, so where are you from?] : egypt 
+yes
+
