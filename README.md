@@ -12,3 +12,4 @@ $ sudo apt-get install swi-prolog
 ```
 $ swipl -s AI\ Chatbot.pl
 ```
+![alt text](https://github.com/AhmedMadbouly/Prolog-Chatbot/blob/master/Capture%201.PNG)
